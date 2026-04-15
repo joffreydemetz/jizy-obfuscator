@@ -1,0 +1,3 @@
+import Obfuscator from '{{PREFIX}}lib/js/Obfuscator.js';
+
+export default Obfuscator;
