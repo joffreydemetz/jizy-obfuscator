@@ -1,10 +1,4 @@
-import fs from 'fs';
-import path from 'path';
-
-import {
-    LogMe,
-    jPackConfig
-} from 'jizy-packer';
+import { jPackConfig } from 'jizy-packer';
 
 const jPackData = function () {
     jPackConfig.sets({
