@@ -6,7 +6,7 @@
   "type": "module",
   "jizy": "dist/",
   "licence": "MIT",
-  "homepage": "https://jdz.joffreydemetz.com/jizy-obfuscator",
+  "homepage": "https://jizy.joffreydemetz.com/obfuscator",
   "description": "UnObfuscate email addresses from the DOM",
   "keywords": [
     "jdz",
