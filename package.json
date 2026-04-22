@@ -1,6 +1,6 @@
 {
   "name": "jizy-obfuscator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "browser": "dist/js/jizy-obfuscator.min.js",
   "main": "lib/index.js",
   "type": "module",
